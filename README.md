@@ -300,3 +300,10 @@ Spring Security is open-source software released under the Apache 2.0 License. S
 
 
 Spring Guides: https://spring.io/guides/gs/securing-web/          
+
+
+
+👨‍💻 Author
+Ankush Choudhary
+Full Stack Developer | MERN & Java Architect
+Crafting recruiter-ready SaaS dashboards, admin panels, and support portals with advanced UI/UX and modular backend logic.
